@@ -1,5 +1,5 @@
 {
-  "name": "devcontainer-nodejs-20",
+  "name": "devcontainer-nodejs-22",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/x9gg/devcontainer-nodejs-20.git"
+    "url": "git+ssh://git@github.com/x9gg/devcontainer-nodejs-22.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/x9gg/devcontainer-nodejs-20/issues"
+    "url": "https://github.com/x9gg/devcontainer-nodejs-22/issues"
   },
-  "homepage": "https://github.com/x9gg/devcontainer-nodejs-20#readme",
+  "homepage": "https://github.com/x9gg/devcontainer-nodejs-22#readme",
   "description": "",
   "dependencies": {
     "@fastify/view": "^10.0.2",
